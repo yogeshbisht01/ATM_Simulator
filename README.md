@@ -4,5 +4,6 @@
 
 ~ By using this System User can easily access his/her respective account that include User Details, Account update, Withdraw amount and Deposit amount.
 
-~ This system is developed using Python (a high-level programming language. There is no external database using in this system to save user’s data, everything is saved   
+~ This system is developed using Python (a high-level programming language. There is no external database using in this system to save user’s data, everything is saved
+
   in source code. User can easily interact with this system without any difficulty as it based on user-friendly GUI.
